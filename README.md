@@ -1,2 +1,2 @@
 # New project
-This project was created from Local system. 
+This is a Spotify Clone which contain only Frontend. It is built completely using HTML and CSS.
